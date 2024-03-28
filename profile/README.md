@@ -1,1 +1,1 @@
-![GitHub stats](/profile/metrics.svg)
+![Metrics](github-metrics.svg)
