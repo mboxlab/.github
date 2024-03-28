@@ -25,6 +25,8 @@ jobs:
           
           template: classic
           base: header, activity, community, repositories, metadata
+          plugin_lines: yes
+          plugin_traffic: yes
           config_octicon: yes
           config_twemoji: yes
           
