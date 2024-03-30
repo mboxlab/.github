@@ -113,7 +113,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.43k views in last two weeks
+                                    1.57k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -135,14 +135,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="318.39605356567597" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="318.39605356567597" y="0" width="77.43741648073689" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="395.83347004641286" y="0" width="58.62898282486011" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="454.46245287127294" y="0" width="3.0225695894431652" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="457.4850224607161" y="0" width="1.8366445241191702" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.3216669848353" y="0" width="0.21413369644327251" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="459.5358006812786" y="0" width="0.1266621824776586" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="459.6624628637563" y="0" width="0.3375371362437808" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="318.46085931804936" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="318.46085931804936" y="0" width="77.40197686084456" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="395.8628361788939" y="0" width="58.60215097844251" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="454.4649871573364" y="0" width="3.0211862953946786" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="457.48617345273107" y="0" width="1.8358039745919492" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.321977427323" y="0" width="0.21403569708904596" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="459.53601312441214" y="0" width="0.12660421489808604" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="459.6626173393102" y="0" width="0.3373826606898217" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -154,7 +154,7 @@
                                 Lua
                             </div>
                             <small>
-                                <div>69.22%</div>
+                                <div>69.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -165,7 +165,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>12.75%</div>
+                                <div>12.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -241,15 +241,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 322kb of code in 175 edited files across 106 commits over last 13 days</small>
+                <small>estimation from 252kb of code in 94 edited files across 99 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.3942922710745" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="441.3942922710745" y="0" width="16.683438902801146" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="458.0777311738757" y="0" width="1.922268826124373" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="416.41524854252555" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="416.41524854252555" y="0" width="39.08174570022339" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.49699424274894" y="0" width="4.503005757251049" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -261,7 +261,7 @@
                                 Lua
                             </div>
                             <small>
-                                <div>95.96%</div>
+                                <div>90.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -272,7 +272,7 @@
                                 Batchfile
                             </div>
                             <small>
-                                <div>0.42%</div>
+                                <div>0.98%</div>
                             </small>
                         </div>
                     </section>
@@ -285,7 +285,7 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>3.63%</div>
+                                <div>8.5%</div>
                             </small>
                         </div>
                     </section>
@@ -300,6 +300,27 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">mboxlab/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a78810c</div>
+                                        <div class="message">Update profile/metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -384,32 +405,11 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">kekobka</div>
-                                        pushed 1 commit in
-                                        <span class="repo">mboxlab/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d67ada3</div>
-                                        <div class="message">Update metrics.yml</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
-                <span>Last updated 29 Mar 2024, 01:17:17  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Mar 2024, 01:14:42  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
