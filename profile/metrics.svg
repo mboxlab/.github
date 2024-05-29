@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="753" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="884" class="">
     <defs>
         <style/>
     </defs>
@@ -49,7 +49,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            50 Repositories
+                            52 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -113,7 +113,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    141 views in last two weeks
+                                    206 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -125,7 +125,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    10 Languages
+                    11 Languages
                 </h2>
             </section>
             <section class="column">
@@ -135,14 +135,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="335.906265103055" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="335.906265103055" y="0" width="67.95892590754124" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="403.8651910105963" y="0" width="51.4590029668658" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="455.3241939774621" y="0" width="3.7385977558884944" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.06279173335054" y="0" width="0.26544074170663334" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.3282324750572" y="0" width="0.2446690817375291" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="459.5729015567947" y="0" width="0.17798904285120157" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.7508905996459" y="0" width="0.24910940035411294" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="291.50818748073505" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="291.50818748073505" y="0" width="91.38859242039518" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="382.89677990113023" y="0" width="69.20012030350453" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="452.0969002046347" y="0" width="5.027524816998084" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="457.1244250216328" y="0" width="1.5903560064076796" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.71478102804053" y="0" width="0.356954666832117" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.07173569487264" y="0" width="0.3290217243751665" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="459.40075741924784" y="0" width="0.5992425807521873" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -154,7 +154,7 @@
                                 Lua
                             </div>
                             <small>
-                                <div>73.02%</div>
+                                <div>63.37%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -165,29 +165,29 @@
                                 C++
                             </div>
                             <small>
-                                <div>11.19%</div>
+                                <div>15.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                SCSS
+                                JavaScript
                             </div>
                             <small>
-                                <div>0.06%</div>
+                                <div>0.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                HTML
+                                Rust
                             </div>
                             <small>
-                                <div>0.04%</div>
+                                <div>0.07%</div>
                             </small>
                         </div>
                     </section>
@@ -200,7 +200,7 @@
                                 C
                             </div>
                             <small>
-                                <div>14.77%</div>
+                                <div>19.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -211,18 +211,18 @@
                                 C#
                             </div>
                             <small>
-                                <div>0.81%</div>
+                                <div>1.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Rust
+                                SCSS
                             </div>
                             <small>
-                                <div>0.05%</div>
+                                <div>0.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -233,7 +233,7 @@
                                 Other
                             </div>
                             <small>
-                                <div>0.05%</div>
+                                <div>0.13%</div>
                             </small>
                         </div>
                     </section>
@@ -241,7 +241,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 4.84kb of code in 6 edited files across 8 commits over last 7 days</small>
+                <small>estimation from 17.2kb of code in 12 edited files across 15 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -284,15 +284,15 @@
                                     </svg>
                                     <div class="content">
                                         <div class="user">kekobka</div>
-                                        pushed 1 commit in
+                                        pushed 2 commits in
                                         <span class="repo">mboxlab/ArmoredCombatExtended</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#668230b</div>
-                                        <div class="message">fix error spam !!!</div>
+                                        <div class="sha">#8688623</div>
+                                        <div class="message">Merge branch 'RedDeadlyCreeper:master' into master</div>
                                     </div>
                                 </div>
                             </section>
@@ -305,15 +305,30 @@
                                     </svg>
                                     <div class="content">
                                         <div class="user">kekobka</div>
-                                        pushed 4 commits in
+                                        pushed 5 commits in
                                         <span class="repo">mboxlab/StarfallEx</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f078692</div>
+                                        <div class="sha">#86e0012</div>
                                         <div class="message">Merge branch 'thegrb93:master' into master</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">mboxlab</div>
+                                        made
+                                        <span class="repo">mboxlab/wiki</span>
+                                        public
                                     </div>
                                 </div>
                             </section>
@@ -333,8 +348,29 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ce949e9</div>
+                                        <div class="sha">#6f1149e</div>
                                         <div class="message">Update profile/metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">kekobka</div>
+                                        pushed 1 commit in
+                                        <span class="repo">mboxlab/ArmoredCombatExtended</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#668230b</div>
+                                        <div class="message">fix error spam !!!</div>
                                     </div>
                                 </div>
                             </section>
@@ -343,7 +379,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 22 May 2024, 01:17:26  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 May 2024, 01:20:50  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
