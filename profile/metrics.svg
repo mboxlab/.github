@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1867" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1051" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -113,7 +113,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    78 views in last two weeks
+                                    60 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -241,7 +241,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 340kb of code in 261 edited files across 77 commits over last 9 days</small>
+                <small>estimation from 396kb of code in 279 edited files across 75 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -283,6 +283,124 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        <div class="user">kekobka</div>
+                                        pushed 9 commits in
+                                        <span class="repo">mboxlab/ACF-3</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#677bb27</div>
+                                        <div class="message">Merge pull request #490 from IkarusHD/german-localisation
+
+added german localisation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#704d4ab</div>
+                                        <div class="message">added german localisation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b207c2</div>
+                                        <div class="message">Fix gun sounds not playing</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d35b6e4</div>
+                                        <div class="message">Wow, this will be fun to merge-conflict resolve!</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5256569</div>
+                                        <div class="message">Actually fix #488. Revert weight boosting changes, for now</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7fad1ac</div>
+                                        <div class="message">Try resolving #488</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae08aa4</div>
+                                        <div class="message">Detour wirelib method properly</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b8eabb4</div>
+                                        <div class="message">Try making this NWString unique</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c81644</div>
+                                        <div class="message">Fix baseplate seats (this is stupid)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">kekobka</div>
+                                        pushed 10 commits in
+                                        <span class="repo">mboxlab/StarfallEx</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e1e46c3</div>
+                                        <div class="message">Merge branch 'thegrb93:master' into master</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">kekobka</div>
+                                        pushed 14 commits in
+                                        <span class="repo">mboxlab/wire</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ab33e73</div>
+                                        <div class="message">Merge branch 'wiremod:master' into master</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">mboxlab/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#817b7af</div>
+                                        <div class="message">Update profile/metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         <div class="user">github-actions[bot]</div>
                                         pushed 1 commit in
                                         <span class="repo">mboxlab/.github</span>
@@ -297,465 +415,11 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">kekobka</div>
-                                        pushed 456 commits in
-                                        <span class="repo">mboxlab/ACF-3</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6bc9636</div>
-                                        <div class="message">Update crew_types.lua</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0a61f6</div>
-                                        <div class="message">Update Weapon Definitions And Tunings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d64626d</div>
-                                        <div class="message">Bug Fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3fa23ef</div>
-                                        <div class="message">Update Documentation, Refactor Code And Fix Bugs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a394c1</div>
-                                        <div class="message">Documentation Changes And Restocking Improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5eb11ec</div>
-                                        <div class="message">Updated Linking Logic</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9a00e0b</div>
-                                        <div class="message">Add Limits Per Type, Structural Changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26077c9</div>
-                                        <div class="message">WIP</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f16f0d</div>
-                                        <div class="message">Fix Loading/Unloading Via Stages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64fb1a4</div>
-                                        <div class="message">Minor Linter Fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc5f17c</div>
-                                        <div class="message">Lots of cleanup
-
-- Removed lots of commented out chunks
-- Fixed a bug where the menu would show dual clutch as enabled but the actual setting would be disabled right after opening the menu for the first time
-- Fixed (?) a bug where the gearbox entity in the menu would throw an error after opening the page for the first time (I just increased the timer a bit)
-- Allowed 9 gear auto/manual boxes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#edb0dd6</div>
-                                        <div class="message">Add Safety For Visualizations, Reimplement RR Ammunition Usage
-
-Some visualizations weren't safely checked.
-
-Guns used to swap through their active crates in Round Robbin order. Originally thought it wouldn't be optimized, but this seems pretty good.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2a7a11e</div>
-                                        <div class="message">Crew Basics
-
-Introduces crew as an entity, various debugging visuals and a new ammo stage system among other things. Crew do not actually affect any entities yet.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ac41be</div>
-                                        <div class="message">Move old manual/auto definitions
-
-For some reason, these were occasionally loading in like normal gearboxes and were selectable from the menu, which was not supposed to happen.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5231246</div>
-                                        <div class="message">Unify calculations under ACF.GetGearboxStats</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#742f4fd</div>
-                                        <div class="message">Remove non-scalable gearbox models</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#38d41b2</div>
-                                        <div class="message">Mobility ropes soft rework
-
-- Mobility ropes are now entirely faked with clientside rendering instead of being actual ropes (using actual ropes with scalable entities like this looks awful)
-- Lowered the minimum scale amount to 0.75 to allow for tiny clutches
-- The mobility ropes setting now toggles visibility of all mobility ropes globally instead of only allowing the creation of ones owned by the local player
-- Added some globals for controlling gearbox behavior</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf4907d</div>
-                                        <div class="message">Merge branch 'master' into scalable-gearboxes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b22fe7</div>
-                                        <div class="message">Remove old manual/auto definition files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0dfbe3c</div>
-                                        <div class="message">WIP scalable gearboxes
-
-This is not yet complete! Please don't try to use this yet if you are a player/server owner lol</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">kekobka</div>
-                                        pushed 24 commits in
-                                        <span class="repo">mboxlab/gmod-glide</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8376d94</div>
-                                        <div class="message">Remove hook</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7104e2</div>
-                                        <div class="message">Make it better</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10561ee</div>
-                                        <div class="message">Revert some changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6713049</div>
-                                        <div class="message">Do not override default `ENTITY:IsVehicle`
-All Is* checks in the entity, weapon, nextbot, vehicle, and player metatables are hard-coded to return `true` or `false`. For example, `ENTITY.IsVehicle` will always return `false`, and `VEHICLE.IsVehicle` will always return `true`.
-```lua
-lua_run print(FindMetaTable("Entity").IsVehicle(Entity(VEHICLE_EDICT)))
-&gt; false
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41c209f</div>
-                                        <div class="message">Fix smoke being created ahead of the projectile</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ee2c26</div>
-                                        <div class="message">Some optimizations for weapon traces</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d5bd49</div>
-                                        <div class="message">Merge pull request #169 from wrefgtzweve/hit-parents
-
-Use tracehull for missiles, bullets, projectiles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e93f17</div>
-                                        <div class="message">Set mins and maxs for firebullet tracehull</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d2339b</div>
-                                        <div class="message">Use custom entity iterator on more places</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1b636d</div>
-                                        <div class="message">Use tracehull for firebullet too</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af7bd08</div>
-                                        <div class="message">Improve table</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c33482c</div>
-                                        <div class="message">Use tracehull for projectiles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bff967e</div>
-                                        <div class="message">Add custom entity iterator function</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#44a203f</div>
-                                        <div class="message">Renamed sh_data_validator.lua to sh_utils.lua</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec0b78d</div>
-                                        <div class="message">Merge pull request #168 from Bonyoze/Bonyoze-patch-1
-
-Call Entity:SetOwner when creating propeller</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d96bd1a</div>
-                                        <div class="message">Tweak reduced throttle and engine stream wobble logic</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b104ee</div>
-                                        <div class="message">Call Entity:SetOwner when creating propeller</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c50924</div>
-                                        <div class="message">Base vehicle already saves the wheel radius</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f78bbe</div>
-                                        <div class="message">Fix incorrect modifier ID on the Wheel Editor tool</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b83a1d7</div>
-                                        <div class="message">Use tool trace on the Wheel Editor tool</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">kekobka</div>
-                                        pushed 59 commits in
-                                        <span class="repo">mboxlab/wire</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a1efac1</div>
-                                        <div class="message">Force callback on empty file write (#3313)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e24bdfe</div>
-                                        <div class="message">Blood manipulation functions for E2 (#3309)
-
-* Blood manipulation functions for E2
-
-* Add missing dot
-
-* Fix invalid return
-
-* Add missing `IsOwner` check
-
-I did this with my phone and completely forgot about it.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4a2951</div>
-                                        <div class="message">Fix lua error in `toChar` and `toUnicodeChar` (#3310)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0edfce0</div>
-                                        <div class="message">Fix NULL error (#3306)
-
-Fixes:
-```
-[wire-master] addons/wire-master/lua/entities/gmod_wire_explosive.lua:135: Tried to use a NULL entity!
-1. GetClass - [C]:-1
- 2. unknown - addons/wire-master/lua/entities/gmod_wire_explosive.lua:135
-  3. TakeDamageInfo - [C]:-1
-   4. applyDamage - starfall/libs_sv/entities.lua:312
-    5. unknown - SF:aimbot.txt:52
-     6. xpcall - [C]:-1
-      7. run - addons/starfallex-master/lua/starfall/instance.lua:568
-       8. runScriptHook - addons/starfallex-master/lua/starfall/instance.lua:599
-        9. unknown - addons/starfallex-master/lua/starfall/sflib.lua:1098
-         10. unknown - addons/hook-library-master/lua/includes/modules/hook.lua:313
-          11. FireBullets - [C]:-1
-           12. FireWeapon - lua/weapons/simple_base/sh_attack.lua:124
-            13. PrimaryFire - lua/weapons/simple_base/sh_attack.lua:43
-             14. unknown - lua/weapons/simple_base/shared.lua:224
-```
-If you deal damage yourself via `CTakeDamageInfo` and do not set the inflictor, it will be `NULL`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8197779</div>
-                                        <div class="message">Fixes bugged output port ordering and removes unused port Idx (#3303)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5896719</div>
-                                        <div class="message">Fix digital screen not updating when clearing rows and columns. (#3304)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7695ccb</div>
-                                        <div class="message">fix error when an entity a wire is attached to gets deleted while wiring (#3302)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e850d76</div>
-                                        <div class="message">Ignore :use while in vehicle when used on vehicle (#3301)
-
-* Ignore :use while in vehicle when used on vehicle
-
-* Add vehicle check to wire user too</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a7410c</div>
-                                        <div class="message">New E2 functions (#3299)
-
-* New E2 functions
-Adds functions E:getModelRadius and E:getModelScale, also adds description for E:getSubMaterial
-
-* Fix description
-
-Co-authored-by: thegrb93 &lt;grbrown93@sbcglobal.net&gt;
-
----------
-
-Co-authored-by: thegrb93 &lt;grbrown93@sbcglobal.net&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06e9e39</div>
-                                        <div class="message">Raise limit to 512 (#3298)
-
-* Raise limit to 512
-
-* Fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f80785</div>
-                                        <div class="message">Fix lua erorr (again) (#3297)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e959eef</div>
-                                        <div class="message">Ignore already queued collisions for untracked entities (#3296)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca2bf87</div>
-                                        <div class="message">Fix lua error (#3295)
-
-* Fix lua error
-
-As I understand it, self.OverlayData can sometimes be nil, so need to check it before iteration
-
-Fixes:
-```
-[wire-master] addons/wire-master/lua/entities/gmod_wire_indicator.lua:89: bad argument wiremod#1 to 'pairs' (table expected, got nil)
-1. pairs - [C]:-1
- 2. DrawWorldTipBody - addons/wire-master/lua/entities/gmod_wire_indicator.lua:89
-  3. DrawWorldTip - addons/wire-master/lua/entities/base_wire_entity.lua:203
-   4. unknown - addons/wire-master/lua/entities/base_wire_entity.lua:227
-    5. unknown - addons/hook-library-master/lua/includes/modules/hook.lua:313
-```
-
-* Another fix
-
-Fixes:
-```
-[wire] addons/wire/lua/entities/gmod_wire_colorer.lua:51: attempt to index local 'data' (a nil value)
-    1. DrawWorldTipBody - addons/wire/lua/entities/gmod_wire_colorer.lua:51
-        2. DrawWorldTip - addons/wire/lua/entities/base_wire_entity.lua:203
-            3. v - addons/wire/lua/entities/base_wire_entity.lua:227
-                4. unknown - lua/includes/modules/hook.lua:102
-```
-
-* Another fix
-
-Fixes:
-```
-[wire] addons/wire/lua/entities/gmod_wire_colorer.lua:51: attempt to index local 'data' (a nil value)
-    1. DrawWorldTipBody - addons/wire/lua/entities/gmod_wire_colorer.lua:51
-        2. DrawWorldTip - addons/wire/lua/entities/base_wire_entity.lua:203
-            3. v - addons/wire/lua/entities/base_wire_entity.lua:227
-                4. unknown - lua/includes/modules/hook.lua:102
-```
-
-* never trust github files manager
-
-* istable checks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba7a5ce</div>
-                                        <div class="message">Fix json memleak (#3294)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98a8602</div>
-                                        <div class="message">Fix lua error (#3293)
-
-I rarely noticed this error when I enabled `wire_expression2_pause_on_disconnect`
-
-Fixes:
-```
-[wire-master] addons/wire-master/lua/entities/gmod_wire_expression2/init.lua:713: attempt to index field 'context' (a nil value)
-1. unknown - addons/wire-master/lua/entities/gmod_wire_expression2/init.lua:713
- 2. unknown - addons/hook-library-master/lua/includes/modules/hook.lua:313
-  3. UniqueID - [C]:-1
-   4. echoToAdmins - addons/ulx-master/lua/ulx/log.lua:164
-    5. old_func - addons/ulx-master/lua/ulx/log.lua:202
-     6. unknown - addons/hook-library-master/lua/includes/modules/hook.lua:208
-      7. unknown - addons/hook-library-master/lua/includes/modules/hook.lua:313
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d7f4a8</div>
-                                        <div class="message">Undo MAX_EDICT_BITS hack (#3289)
-
-It is already a global value in the game, so it doesn't make sense</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c64dcba</div>
-                                        <div class="message">Fix attempt to index local 'trace' (a nil value) (#3291)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a256e7f</div>
-                                        <div class="message">Fix e2 function net overflows (#3288)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ab93f1</div>
-                                        <div class="message">Check isentity on owner in DrawWorldTip (#3292)
-
-PatchProtect returns a number (CPPI.CPPI_DEFER) when waiting to receive the owner over the network</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ebe32a4</div>
-                                        <div class="message">Fixes wire entities not displaying their type/owner if they didn't set an overlay text (#3283)
-
-* Fixes wire entities not displaying their type/owner if they didn't set an overlay text
-
-* Add missing txt check
-
-* Cleanup</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">kekobka</div>
-                                        pushed 13 commits in
-                                        <span class="repo">mboxlab/StarfallEx</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2e656ed</div>
-                                        <div class="message">Merge branch 'thegrb93:master' into master</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
-                <span>Last updated 1 Jul 2025, 02:13:15  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jul 2025, 02:02:11  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
