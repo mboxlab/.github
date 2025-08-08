@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="551" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1550" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -49,7 +49,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            86 Repositories
+                            87 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -75,7 +75,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    6.21 GB used
+                                    6.32 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -113,7 +113,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    32 views in last two weeks
+                                    48 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -135,14 +135,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="424.1597413727077" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="424.1597413727077" y="0" width="26.736665832163823" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="450.8964072048715" y="0" width="3.070386186831342" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.9667933917028" y="0" width="2.909943171245445" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="456.8767365629483" y="0" width="2.658469486219335" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.53520604916764" y="0" width="0.2969890197462171" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.83219506891385" y="0" width="0.16202056890738936" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="459.99421563782124" y="0" width="0.005784362178806905" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.67681597728284" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="426.67681597728284" y="0" width="24.771399365021107" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="451.44821534230397" y="0" width="2.845851169323391" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.29406651162736" y="0" width="2.6949360492267442" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="456.98900256085415" y="0" width="2.4620430134089" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.45104557426305" y="0" width="0.27504537664082285" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.7260909509038" y="0" width="0.2685520763856785" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="459.9946430272895" y="0" width="0.005356972710494091" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -154,7 +154,7 @@
                                 Lua
                             </div>
                             <small>
-                                <div>92.21%</div>
+                                <div>92.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -165,7 +165,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>0.67%</div>
+                                <div>0.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -176,7 +176,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>0.58%</div>
+                                <div>0.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -187,7 +187,7 @@
                                 ShaderLab
                             </div>
                             <small>
-                                <div>0.04%</div>
+                                <div>0.06%</div>
                             </small>
                         </div>
                     </section>
@@ -200,7 +200,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>5.81%</div>
+                                <div>5.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -211,7 +211,7 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>0.63%</div>
+                                <div>0.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -241,11 +241,27 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>No recent push activity found
-                
-                  over last 10 days</small>
+                <small>estimation from 187kb of code in 748 edited files across 51 commits over last 7 days</small>
+                <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
+                    <mask id="languages-bar">
+                        <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
+                    </mask>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#000080"/>
+                </svg>
                 <div class="row fill-width">
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Lua
+                            </div>
+                            <small>
+                                <div>100%</div>
+                            </small>
+                        </div>
                     </section>
                     <section>
                     </section>
@@ -267,6 +283,329 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        <div class="user">kekobka</div>
+                                        pushed 45 commits in
+                                        <span class="repo">mboxlab/wire</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#66f03d5</div>
+                                        <div class="message">Fix NULL error (#3391)
+
+Fixes:
+```lua
+[Wiremod Canary] lua/wire/stools/holoemitter.lua:39: attempt to call method 'UnLink' (a nil value)
+    1. RightClick - lua/wire/stools/holoemitter.lua:39
+        2. unknown - gamemodes/sandbox/entities/weapons/gmod_tool/shared.lua:265
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e05d0ee</div>
+                                        <div class="message">Remove WIRE_CLIENT_INSTALLED leftover, clarify WireAddon check
+
+Co-Authored-By: Redox &lt;69946827+wrefgtzweve@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#234ce88</div>
+                                        <div class="message">Minor watersensor refactor + remove ShowOutput in gates (#3389)
+
+* Refactor watersensor a bit
+
+* No more need to keep ShowOutput function</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e176a0c</div>
+                                        <div class="message">avoid table.insert c call
+
+Co-Authored-By: march &lt;106459595+marchc1@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03c5331</div>
+                                        <div class="message">Remove debug prints</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8166dfd</div>
+                                        <div class="message">Better more reliable networking for PlayerInitialSpawn. Don't network to all players on player spawn.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c2344c</div>
+                                        <div class="message">Get rid of timers and global state in networking
+
+Co-Authored-By: march &lt;106459595+marchc1@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a648f2</div>
+                                        <div class="message">Less garry code for custom hammer output logic.
+
+Co-Authored-By: march &lt;106459595+marchc1@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42db92f</div>
+                                        <div class="message">Remove unused vars</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b661703</div>
+                                        <div class="message">More compact `EntityWmiSpawnId` setter
+
+Co-authored-by: thegrb93 &lt;grbrown93@sbcglobal.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#49165af</div>
+                                        <div class="message">More compact `SrcWmiSpawnId` setter
+
+Co-authored-by: thegrb93 &lt;grbrown93@sbcglobal.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#188374a</div>
+                                        <div class="message">validate `info.Wires` to be a table
+
+Co-authored-by: thegrb93 &lt;grbrown93@sbcglobal.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bdb655f</div>
+                                        <div class="message">no need to check for NaN, so remove it
+
+Co-authored-by: thegrb93 &lt;grbrown93@sbcglobal.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d65701</div>
+                                        <div class="message">Refactored wire_map_interface.lua in suggested style
+
+Co-Authored-By: thegrb93 &lt;grbrown93@sbcglobal.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#15c5f67</div>
+                                        <div class="message">add spacing</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d0b1dd</div>
+                                        <div class="message">Only cleanup existing values
+
+Co-authored-by: thegrb93 &lt;grbrown93@sbcglobal.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0da860d</div>
+                                        <div class="message">shorter id checks
+
+Co-authored-by: thegrb93 &lt;grbrown93@sbcglobal.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c7feb38</div>
+                                        <div class="message">Merge branch 'wiremod:master' into master</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3cda76</div>
+                                        <div class="message">WMI: Only add hooks if an info_wiremapinterface spawns.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93027d3</div>
+                                        <div class="message">Major Update to Wire Map Interface
+
+- Removed built-in Lua Run functions. When used an error message will be shown in game and the code will not be ran.
+- Improved compatibility to GMods lua_run entity. You can copy-paste affected code key values to a lua_run entity with no further changes required.
+- Improved security: Blocked AddOutput and RunPassedCode from user input. It prints an error message instead.
+- Added additional support for hammer searchers (targetnames beginning with "!")
+- Added additional Lua globals for lua_run entity context.
+- Added duplicator and GMod save support with basic anti-tampering.
+- Added Convars: sv_wire_mapinterface_min_trigger_time, sv_wire_mapinterface_max_sub_entities
+- Improved stability and reliability.
+- Improved performance.
+- Fixed an unnamed number of bugs.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">kekobka</div>
+                                        pushed 9 commits in
+                                        <span class="repo">mboxlab/StarfallEx</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c969934</div>
+                                        <div class="message">Merge branch 'thegrb93:master' into master</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">kekobka</div>
+                                        pushed 115 commits in
+                                        <span class="repo">mboxlab/ACF-3</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7192440</div>
+                                        <div class="message">changed explosion sound over to the table.concat
+
+-changed explosion sounds to table.concat
+-added water sounds, not currently implemented, but added for future use
+-added missing dart sounds</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88403ef</div>
+                                        <div class="message">concatenation optimization and file restructuring
+
+-reorganized the file paths to make it easy to grab sounds
+-use table.concat instead of .., cutting down on junk strings
+-predefined table sizes to avoid rehashing tables, although it will still need to rehash if the impact is a dart round</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#714a7ba</div>
+                                        <div class="message">Merge branch 'ACF-Team:dev' into dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a21140c</div>
+                                        <div class="message">Merge branch 'ACF-Team:dev' into dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db0d59e</div>
+                                        <div class="message">Merge branch 'ACF-Team:dev' into dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99d3abd</div>
+                                        <div class="message">fixed penetration not playing medium/large sounds</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5f1749</div>
+                                        <div class="message">Large Ground Impact SFX fix
+
+Made large ground impacts less boomy</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03e2281</div>
+                                        <div class="message">created soundbank functions
+
+returns what sound directory to use along with volume and pitch given the caliber and trace data</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72f86fc</div>
+                                        <div class="message">Directory Restructuring and New sounds
+
+Restructured sound directory to new format, and added the rest(?) of the sounds that will be used.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18ff2ba</div>
+                                        <div class="message">Impact Directory Change
+
+Current impact sounds are world sounds, changed directory to reflect this.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dfafe98</div>
+                                        <div class="message">Impact Directory Fix
+
+Update lua to reflect impact sounds directory change.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb63424</div>
+                                        <div class="message">Directory Change and Impact Sounds
+
+Changed directory name of "impact" to "hit", which contains penetrations, ricochets, and now impacts.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0048efb</div>
+                                        <div class="message">Penetration and Ricochet sound code
+
+Changed code for penetration and ricochet sounds to use the new sounds.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5bf9374</div>
+                                        <div class="message">added rest of the sounds
+
+Added penetration and ricochet sounds for large, medium, small, and small_arms.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a7c795</div>
+                                        <div class="message">minor volume adjustment
+
+minorly adjusted the volume</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11059ee</div>
+                                        <div class="message">Volume Adjustments
+
+Each explosion size now has its own sound volume. Small and medium-small explosions volume somewhat reduced.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d363e4a</div>
+                                        <div class="message">Full .wav Replacement
+
+Replaced all existing sounds with .mp3s and new distance variance settings.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#721bcf9</div>
+                                        <div class="message">File extension fix
+
+Changes explosion file extensions from .wav to .mp3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f91e29</div>
+                                        <div class="message">Extra-Large fix
+
+Started MP3 replacements with extra-large sounds. Also testing new distance variance.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9099a3</div>
+                                        <div class="message">initial update
+
+overhauls sounds from acf:
+-explosions
+-penetrations
+-ricochets
+
+new sounds for hitting and ricocheting off the world with potential add other types of world material related sound effects.
+
+all sounds use distance variance allowing for two types of sounds to be used (near and far).</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">kekobka</div>
+                                        pushed 1 commit in
+                                        <span class="repo">mboxlab/glide_poly</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3db35fe</div>
+                                        <div class="message">add car shop</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         <div class="user">github-actions[bot]</div>
                                         pushed 1 commit in
                                         <span class="repo">mboxlab/.github</span>
@@ -275,7 +614,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8e5b984</div>
+                                        <div class="sha">#8cae615</div>
                                         <div class="message">Update profile/metrics.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
@@ -285,7 +624,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 1 Aug 2025, 02:28:09  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Aug 2025, 02:12:05  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
