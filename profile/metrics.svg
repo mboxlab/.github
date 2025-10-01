@@ -243,7 +243,7 @@
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 14 days</small>
+                  over last 9 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -275,7 +275,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#083481e</div>
+                                        <div class="sha">#45b38db</div>
                                         <div class="message">Update profile/metrics.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
@@ -296,7 +296,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e3c3f8f</div>
+                                        <div class="sha">#083481e</div>
                                         <div class="message">Update profile/metrics.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
@@ -306,7 +306,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 29 Sept 2025, 01:50:56  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2025, 01:58:02  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
